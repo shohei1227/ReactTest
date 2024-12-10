@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hello World!!!<br/>これはテスト作成のReactプロジェクトです。<br/>Edit <code>src/App.js</code> and save to reload.
+          これは12:33の変更です<br/>Hello World!!!<br/>これはテスト作成のReactプロジェクトです。<br/>Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
           className="App-link"
