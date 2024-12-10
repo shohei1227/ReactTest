@@ -37,6 +37,10 @@ module.exports = (env, argv) => {
             'css-loader',   // CSSをJavaScriptにインポート可能にする
           ],
         },
+	{
+	test: /\.svg$/,
+        use: ['file-loader'],
+	},
       ],
     },
     plugins: [
